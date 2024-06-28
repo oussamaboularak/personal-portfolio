@@ -7,7 +7,10 @@
  * copyright 2022 @codewithsadee
  */
 
-
+/* styles.css or tailwind.css */
+.rounded-img {
+  border-radius: 20px;
+}
 
 
 
